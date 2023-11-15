@@ -1,0 +1,21 @@
+body{
+  background: url(https://imagescdn.homes.com/i2/BYAaTR7ZW_WYpv3jAg7xwu5gbOWnrcbP3MdqdnAsbU8/117/santa-ana-high-school-santa-ana-ca-2.jpg?p=1);
+  background-repeat: no-repeat;
+  background-size: 100% 150%;
+}
+h2{
+  color:rgb(255, 0, 0) ;
+  font-style: bold
+;
+}
+p{
+  color: white ;
+  font-size: 20px;
+  
+}
+a{
+   color: darkred;
+ }
+p{
+  -webkit-text-stroke-width: 10%;
+}
